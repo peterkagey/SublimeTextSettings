@@ -1,3 +1,4 @@
 [
   { "keys": ["alt+enter"], "command": "context_menu" },
+  { "keys": ["super+k", "super+b"], "command": "toggle_side_bar_with_focus" },
 ]
